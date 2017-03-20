@@ -2,7 +2,7 @@ This repository contains the files for the Final Project for Coursera Data Scien
   
 * A README.md file  
 * A codebook - Codebook.md  
-* A tidy data csv file - tidydata.csv  
+* A tidy data txt file - tidyData.txt  
 * The R script necessary to produce the tidy data file - run_analysis.R  
 
 The run_analysis.R file:
